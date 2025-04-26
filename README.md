@@ -41,6 +41,25 @@ pip install -r requirements.txt
 - Follow the on-screen instructions
 - After installation, run run_orinda.bat to start the application
 
+# Solution Design for Orinda
+
+## Architecture Overview
+
+The application follows a modular design with two main components:
+1. **LLM Chat Tab** - Direct interaction with local LLMs via Ollama
+2. **RAG Tab** - Enhanced document-based responses using vector databases
+
+### Core Technologies and Libraries
+
+- **UI Framework**: Tkinter for cross-platform GUI
+- **LLM Interface**: Ollama for local model hosting and inference
+- **Vector Database**: ChromaDB for efficient document embedding storage
+- **Document Processing**: LangChain for document loading and chunking
+- **Embedding Generation**: Ollama for generating document embeddings
+- **Local Storage**: SQLite for chat history persistence
+  
+
+
 
 
 
