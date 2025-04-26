@@ -107,8 +107,8 @@ The RAG functionality is implemented in the `VectorsLLMFrame` class using a soph
 ![Alt text](https://github.com/pyMixin/Orinda/blob/main/ORINDA.png)
 
 2. **RAG Query Flow**:
-![Alt text](https://github.com/pyMixin/Orinda/blob/main/ORINDA.png)
+![RAG Query Flow](https://github.com/pyMixin/Orinda/blob/main/RAG_Query_Flow.png)
 
-3. **Direct Chat Flow**:
+4. **Direct Chat Flow**:
 ![Direct Flow](https://github.com/pyMixin/Orinda/blob/main/direct_flow.png)
 
