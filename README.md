@@ -16,9 +16,11 @@ ollama pull nomic-embed-text:latest
 ## Step # 2: 
 
 ### Instructions for Mac OSX
+
 **Prerequisite**
 - Ensures Python 3.8+ is installed
 - Ollama is installed, models have been download and Ollama is started.
+
 **Steps**
 - Download all the files in the GitHub Repository
 - Create a new folder in Downloads > Folder: Orinda
