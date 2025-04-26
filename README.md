@@ -1,4 +1,4 @@
-![Alt text](https://github.com/pyMixin/Orinda/blob/main/ORINDA.png)
+![Orinda](https://github.com/pyMixin/Orinda/blob/main/ORINDA.png)
 
 # Orinda Installation Guide
 
@@ -110,5 +110,5 @@ The RAG functionality is implemented in the `VectorsLLMFrame` class using a soph
 ![Alt text](https://github.com/pyMixin/Orinda/blob/main/ORINDA.png)
 
 3. **Direct Chat Flow**:
-![Alt text](https://github.com/pyMixin/Orinda/blob/main/ORINDA.png)
+![Direct Flow](https://github.com/pyMixin/Orinda/blob/main/direct_flow.png)
 
