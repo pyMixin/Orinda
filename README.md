@@ -35,7 +35,11 @@ pip install -r requirements.txt
 - Launch Orinda: python main.py 
 
 ### Instructions for Windows
-
+**Automatic Installation (Windows)**
+- Download this repository
+- Run install_orinda.bat as administrator
+- Follow the on-screen instructions
+- After installation, run run_orinda.bat to start the application
 
 
 
