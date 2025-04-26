@@ -6,7 +6,6 @@
 - https://ollama.com/download
 - Once install open terminal or command line on your OS and type
 ```
-ollama pull llama3.2:latest
 ollama pull llama3:latest
 ollama pull llama3.2:latest
 ollama pull nomic-embed-text:latest
