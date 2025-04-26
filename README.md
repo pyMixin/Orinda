@@ -3,7 +3,7 @@
 # Orinda Installation Guide
 
 ## Step # 1: Download Ollama (Local LLM)
-- https://ollama.com/download
+- Download and install Ollama -- https://ollama.com/download
 - Once install open terminal or command line on your OS and type
 ```
 ollama pull llama3:latest
