@@ -39,7 +39,7 @@ pip install -r requirements.txt
 - Download this repository
 - Run install_orinda.bat as administrator
 - Follow the on-screen instructions
-- After installation, run run_orinda.bat to start the application
+- After installation, run [run_orinda.bat](https://github.com/pyMixin/Orinda/blob/main/install_orinda.bat) to start the application
 
 # Solution Design for Orinda
 
